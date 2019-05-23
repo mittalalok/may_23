@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="sn_dd_may_23_reporting" name="sn_dd_may_23_reporting">77dbe55e732573001c233096fbf6a704</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-23 11:59:06</sys_created_on>
+        <sys_id>f3dbe55e732573001c233096fbf6a706</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>77dbe55e732573001c233096fbf6a704</sys_name>
+        <sys_package display_value="may_23" source="sn_may_23">873aa99a732573001c233096fbf6a7a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="may_23">873aa99a732573001c233096fbf6a7a3</sys_scope>
+        <sys_update_name>sys_embedded_help_role_f3dbe55e732573001c233096fbf6a706</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-23 11:59:06</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
